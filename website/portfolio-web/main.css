@@ -1,5 +1,5 @@
 *{
-    margin:25px; 
+    margin:0 px; 
     padding:0}
     ul {
         border: 1px solid #e7e7e7;
@@ -18,8 +18,19 @@
         text-decoration: none;
       }
       #intro{  
-            width: 50%;
-            margin:25px;
           background-color:rgb(80, 71, 71);
       }
-      h1{font: size 50px;;}
+      h1{font:size 70px;}
+     
+     
+      #column.main{
+        float: left;
+        width: 70%;
+      }
+      #column.side {
+        float: left;
+        width: 25%;
+      }
+      img {
+        display: inline-block;
+      }
