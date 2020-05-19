@@ -20,8 +20,15 @@
       #intro{  
           background-color:rgb(80, 71, 71);
       }
-      h1{font:size 70px;}
-     
+      h1{font-size: 70px;
+        text-align: center;
+        background:#353636;
+        color: white;
+        text-shadow: 2px 2px black;
+        border-radius: 20px  ;
+        width: 800px;
+        height: 100px;
+      }
      
       #column.main{
         float: left;
