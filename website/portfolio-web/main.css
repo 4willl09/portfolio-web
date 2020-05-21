@@ -27,6 +27,7 @@ li a {float:left;
         padding: 14px 16px;
         text-decoration: none;
       }
+    
 #intro{  
           background-color:#240090
       }
@@ -39,7 +40,7 @@ h1{font-size: 45px;
         border-radius: 20px  ;
         width: 1000px;
         height: 60px;}
-        @media only screen and (max-width: 600px){}
+     @media only screen and (max-width: 800px){h1 {max-width: 300px;max-height: 100px;}li a{padding: 5px 6px; }}
   
 h2{font-size: 25px;
         text-align: center;

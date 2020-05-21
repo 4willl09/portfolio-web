@@ -14,6 +14,29 @@ THe colours I will be using fir the site will be navy blue and gray as I spent a
 ### contact page 
 ![contact](contact.jpg)
 
+## Accessibilty 
+
+The way I have followed the accessibilty standard is by looking at the most up to date guidelines the WCAG 2 ,which has 4 main sections 
+1.Perceivable 
+
+The way I have made my website perceivable to by giving it a simple clear they out that will work on most devices.
+
+2.Operable
+
+The way I have made sure my site is operable to by testing the navigation of it with out the use of a mouse.
+
+3.Uderstandable 
+
+One way i have maybe my website understandabe to by putting a javasctriped validtion on the contac form.
+
+4.Robust 
+
+I  have made it robsut by following best practices.
+
+
+
+
+
 
 
 
