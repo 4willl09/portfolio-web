@@ -58,7 +58,8 @@ h2{font-size: 25px;
 padding-bottom: 110px;}
 #Hobbies{  background-color:#240090;
     padding-bottom: 110px;}
-
+#privacypolicy{  background-color:#240090;
+    padding-bottom: 110px;}
 
 #contact[type=text], select, textarea {
     width: 13%; 
@@ -75,3 +76,5 @@ padding-bottom: 110px;}
 
 
 p{color: white}
+
+ol{color: white;}

@@ -34,6 +34,10 @@ One way i have maybe my website understandabe to by putting a javasctriped valid
 I  have made it robsut by following best practices.
 
 
+## GDPR
+
+To conform with the GDPR I have created a privcy policy telling users of tthe site how the data will be used how it will be stored and what their rigths are.
+
 
 
 
