@@ -55,7 +55,7 @@ h2{font-size: 25px;
         display: inline-block;
       }
 #education{  background-color:#240090;
-padding-bottom: 110px;}
+padding-bottom: 110px;color: white;}
 #Hobbies{  background-color:#240090;
     padding-bottom: 110px;}
 #privacypolicy{  background-color:#240090;
@@ -75,6 +75,12 @@ padding-bottom: 110px;}
       }
 
 
-p{color: white}
+p{color: white;}
 
 ol{color: white;}
+
+#intro{font-size:25px;}
+#unit_list{text-align:start;}
+
+#work {background-color:#240090;
+    padding-bottom: 110px;color: white}

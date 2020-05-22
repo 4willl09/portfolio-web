@@ -36,8 +36,20 @@ I  have made it robsut by following best practices.
 
 ## GDPR
 
-To conform with the GDPR I have created a privcy policy telling users of tthe site how the data will be used how it will be stored and what their rigths are.
+To conform with the GDPR I have created a privcy policy telling users of the site how the data will be used how it will be stored and what their rigths are.
 
+## Online and distance selling
+
+I do not need to conform to the Online and distance selling as I am not selling any goods or services.
+
+## Evaluation
+I beleive I have tackled the problem I set out to solve ,I have a good platform to now disply myself for future employs to see in a simple east to read format.
+
+The main problems I encountered was the layout and sizing of everything. I solved this by trial and error to get the best fit for everyting on my site.
+
+The images that are currently on there are just places holders unit i get my own photos to dispay.
+
+I tested my site using google chrome and the inspect feture.I ran the audits feature to see my accessibilty and best practices score which i got 93 for both.
 
 
 
